@@ -13,6 +13,7 @@
 		7BF8399F249B68F6004BA371 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BF8399E249B68F6004BA371 /* Assets.xcassets */; };
 		7BF839A2249B68F6004BA371 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BF839A1249B68F6004BA371 /* Preview Assets.xcassets */; };
 		7BF839A5249B68F7004BA371 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BF839A3249B68F7004BA371 /* LaunchScreen.storyboard */; };
+		7BF839AD249B6B73004BA371 /* MemoryEater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF839AC249B6B73004BA371 /* MemoryEater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7BF839A1249B68F6004BA371 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7BF839A4249B68F7004BA371 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BF839A6249B68F7004BA371 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BF839AC249B6B73004BA371 /* MemoryEater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryEater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7BF83998249B68F3004BA371 /* AppDelegate.swift */,
 				7BF8399A249B68F3004BA371 /* SceneDelegate.swift */,
 				7BF8399C249B68F3004BA371 /* ContentView.swift */,
+				7BF839AC249B6B73004BA371 /* MemoryEater.swift */,
 				7BF8399E249B68F6004BA371 /* Assets.xcassets */,
 				7BF839A3249B68F7004BA371 /* LaunchScreen.storyboard */,
 				7BF839A6249B68F7004BA371 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				7BF83999249B68F3004BA371 /* AppDelegate.swift in Sources */,
 				7BF8399B249B68F3004BA371 /* SceneDelegate.swift in Sources */,
+				7BF839AD249B6B73004BA371 /* MemoryEater.swift in Sources */,
 				7BF8399D249B68F3004BA371 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

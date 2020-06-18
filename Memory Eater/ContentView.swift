@@ -12,8 +12,15 @@ import SwiftUI
 
 struct ContentView: View {
 	
+	let memoryEater = MemoryEater()
+	
 	var body: some View {
-		Text("Hello, World!")
+		Button(action: {
+			self.memoryEater.eatMemory()
+		},
+		label: {
+			Text("Eat All the Memory!")
+		})
 	}
 	
 }
