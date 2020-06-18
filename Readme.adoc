@@ -1,0 +1,5 @@
+= Memory Eater for iOS
+François Lamboley <francois.lamboley@happn.fr>
+
+== What Is This?
+An attempt at creating a project that eject all other apps from the suspended state and kill them by eating a lot of memory. Maybe there’s a better way to do this, idk…
